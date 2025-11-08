@@ -57,7 +57,7 @@ backend/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/exam-planner-flask.git
+git clone https://github.com/Bhumesh2001/Exam_Planner_Backend
 cd exam-planner-flask
 ```
 
